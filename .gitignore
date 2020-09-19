@@ -1,6 +1,8 @@
 *
+!code/
 !code/*
-!data/*
-!figures/*
+!figures/
+!figures/*.pdf
+!figures/*.png
 !README.md
 !.gitignore
